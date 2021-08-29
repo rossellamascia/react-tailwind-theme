@@ -1,8 +1,8 @@
-# Getting Started with Create React App end tailwind
+# Getting Started with Create React App and tailwind
 
 ![](https://i.ytimg.com/vi/XtNkcHyVQOY/maxresdefault.jpg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) end [tailwind](https://tailwindcss.com/docs/guides/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [tailwind](https://tailwindcss.com/docs/guides/create-react-app).
 
 ## Available Scripts
 
